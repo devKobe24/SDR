@@ -7,3 +7,4 @@
 - [데이터 구조의 종류와 장단점, 알고리즘 개요](https://github.com/devKobe24/SDR/blob/main/SDR/230622(2)_SDR.md)
 - [스위프트에서의 데이터 타입, 밸류타입과 래퍼런스 타입, 기명 타입과 복합 타입, 타입 에일리어스, 스위프트 표준 라이브러리의 컬렉션 타입, 용어 사전](https://github.com/devKobe24/SDR/blob/main/SDR/230623_SDR.md)
 - [점근적 분성, 데이터 크기 분석 방법, 용어 사전](https://github.com/devKobe24/SDR/blob/main/SDR/230624_SDR.md)
+- [스위프트 기본 데이터 구조의 활용, 표준 라이브러리의 활용, 구조체 사용 이유, 배열 선언, 배열의 초기화, 배열 요소 추가 및 업데이트, 배열 요소 가져오기 및 삭제, 딕셔너리 가져오기 및 초기화, 딕셔너리 초기화, 키/값 쌍 추가, 변경, 삭제, 딕셔너리 값 가져오기](https://github.com/devKobe24/SDR/blob/main/SDR/230701_SDR.md)
